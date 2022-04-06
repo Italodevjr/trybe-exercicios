@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    position: relative;
+    width: 80%;
+    border: 2px solid green;
+    float: left;
+}
+
+header{
+    text-align: center;
+    background-color: rgb(175, 175, 175);
+}
+
+.artigo{
+    text-align: center;
+    margin-left: 5px;
+}
+
+
+.leia-principal h2{
+    text-align: center;
+}
+aside{
+    float: left;
+    height:100%;
+    width: 19%;
+    background-color: rgb(92, 92, 92);
+    
+}
+
+footer{
+    clear: both;
+
+}
